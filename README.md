@@ -1,7 +1,7 @@
 # one_simulation
 Data simulation tool for comprehensive 2D chromatographic data.
 
-This repository is part of the submitted publication entitled "Generating Realistic Data through Modeling and Parametric Probability for the Numerical Evaluation of Data Processing Algorithms in Two-dimensional Chromatography".
+This repository is part of the submitted publication (2024) entitled "Generating Realistic Data through Modeling and Parametric Probability for the Numerical Evaluation of Data Processing Algorithms in Two-dimensional Chromatography".
 
 Authors: Nino B.L. Milani; a,b,†
 Alan Rodrigo García-Cicourel; c
