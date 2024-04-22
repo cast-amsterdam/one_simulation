@@ -3,13 +3,13 @@ Data simulation tool for comprehensive 2D chromatographic data.
 
 This repository is part of the submitted publication (2024) entitled "Generating Realistic Data through Modeling and Parametric Probability for the Numerical Evaluation of Data Processing Algorithms in Two-dimensional Chromatography".
 
-Authors: Nino B.L. Milani; a,b,†
-Alan Rodrigo García-Cicourel; c
-Jan Blomberg; c
-Rob Edam; c
-Saer Samanipour; a,b
-Tijmen S. Bos; a,b
-Bob W.J. Pirok; a,b
+Authors: Nino B.L. Milani; a,b,†  
+Alan Rodrigo García-Cicourel; c  
+Jan Blomberg; c  
+Rob Edam; c  
+Saer Samanipour; a,b  
+Tijmen S. Bos; a,b  
+Bob W.J. Pirok; a,b  
 
 a Van 't Hoff Institute for Molecular Science (HIMS), University of Amsterdam, Science Park 904, 1098 XH Amsterdam, The Netherlands
 b Centre for Analytical Sciences Amsterdam (CASA), The Netherlands
